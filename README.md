@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 ## Visualisation
-- [Visualisation](https://icoads_dm.github.io/map/visu)
+- [Visualisation](https://Bobsloth.github.io/icoads_dm/map/visu)
 
 You can use the [editor on GitHub](https://github.com/Bobsloth/icoads_dm.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
